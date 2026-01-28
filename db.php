@@ -1,5 +1,4 @@
 <?php
-
 $host = "localhost";
 $dbname = "vehicle_rental_db";
 $user = "root";
